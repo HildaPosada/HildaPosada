@@ -17,7 +17,7 @@ This project aimed to identify optimal locations for urban farming in Milan, Ita
 - Machine Learning
 - Data Analysis
 
-**Project Link:** [Urban Agriculture in Milan]([https://lnkd.in/ezsZX2KP](https://omdena-crop-disease-diagnostics-app.streamlit.app/prediction_application))
+**Project Link:** [Urban Agriculture in Milan]([https://lnkd.in/ezsZX2KP](https://omdena-crop-disease-diagnostics-app.streamlit.app/prediction_application)
 
 ## 🌍 Predicting Industrial CO2 Emissions with Machine Learning (Jul 2023 - Sep 2023)
 
