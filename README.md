@@ -17,7 +17,7 @@ This project aimed to identify optimal locations for urban farming in Milan, Ita
 - Machine Learning
 - Data Analysis
 
-**Project Link:** [Urban Agriculture in Milan]([https://lnkd.in/ezsZX2KP](https://omdena-crop-disease-diagnostics-app.streamlit.app/prediction_application)
+**Project Link:** [Urban Agriculture in Milan](https://omdena-crop-disease-diagnostics-app.streamlit.app/prediction_application)
 
 ## 🌍 Predicting Industrial CO2 Emissions with Machine Learning (Jul 2023 - Sep 2023)
 
@@ -35,7 +35,7 @@ As part of Omdena’s Riyadh Chapter, this project involved developing a deep le
 - Deep Learning
 - Data Processing
 
-**Project Link:** [CO2 Emissions Prediction](#) (link placeholder)
+**Project Link:** [CO2 Emissions Prediction](https://saudi-arabia-industrial-co2.streamlit.app/)
 
 ## 🛠 Skills & Expertise
 
@@ -50,3 +50,4 @@ As part of Omdena’s Riyadh Chapter, this project involved developing a deep le
 - LinkedIn: [Hilda Posada](https://www.linkedin.com/in/hildaposada/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+
