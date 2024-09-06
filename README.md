@@ -39,10 +39,10 @@ As part of Omdena’s Riyadh Chapter, this project involved developing a deep le
 
 ## 🛠 Skills & Expertise
 
-- **Data Science & EDA:** Skilled in data exploration, cleaning, and visualization.
-- **Machine Learning:** Proficient in building and evaluating machine learning models.
+- **Data Science & EDA:** Basic data exploration, cleaning, and visualization skills.
+- **Machine Learning:** Familiarity in building and evaluating machine learning models.
 - **Project Management:** Experienced in leading cross-functional teams and managing complex projects.
-- **Python Programming:** Extensive experience in Python for data analysis and model development.
+- **Python Programming:** Junior experience in Python for data analysis and model development.
 - **Leadership:** Demonstrated leadership in coordinating projects and mentoring teams.
 
 ## 📫 Connect with Me
