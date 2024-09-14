@@ -1,6 +1,6 @@
 # Hilda Posada's Data Science and Machine Learning Projects
 
-Welcome to my GitHub! I am Hilda Posada, a Chemistry AI Trainer with a strong background in analytical chemistry and a recent focus on data science and machine learning. Below are some of the key projects I have worked on, showcasing my expertise in data analysis, machine learning, and project management.
+Welcome to my GitHub! I am Hilda Posada, a Chemistry AI Trainer with a strong background in analytical chemistry and a recent focus on data science and machine learning. Below are some of the key projects I have worked on, showcasing my experience in data analysis, machine learning, and project management.
 
 ## 🌱 Identifying Potential Areas for Urban Agriculture in Milan, Italy Using Machine Learning and AI (May 2024 - Jul 2024)
 
