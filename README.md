@@ -1,6 +1,6 @@
 ![Banner](git%20hub%20(600%20x%20200%20px).png)
 
-Hello, I'm **Hilda Posada**. A Research Scientist moving into **AI and Data Science** with skills in **chemistry**, **data analysis**, and **machine learning**.
+Hello, I'm **Hilda**. A Research Scientist moving into **AI and Data Science** with skills in **chemistry**, **data analysis**, and **machine learning**.
 
 ##### My Expertise:  
 - Building machine learning models for image classification and natural language processing.  
