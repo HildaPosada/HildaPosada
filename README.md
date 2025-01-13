@@ -1,4 +1,4 @@
-![Banner](git%20hub%20(600%20x%20200%20px).png)
+![Banner](git%20hub%20(1000%20x%20200%20px).png)
 
 Hello, I'm **Hilda**. A Research Scientist moving into **AI and Data Science** with skills in **chemistry**, **data analysis**, and **machine learning**.
 
