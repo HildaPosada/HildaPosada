@@ -9,7 +9,7 @@ Hello, I'm **Hilda**. A Research Scientist moving into **AI and Data Science** w
 - Creating data visualizations and compelling stories using Looker Studio.
   
 ##### 🌱 Projects  
-Explore my work [here](https://github.com/hildaposada?tab=repositories).  
+Explore my work [here](https://github.com/HildaPosada/HildaPosada/tree/main/Portfolio).  
 
 #### 🛠 Tools & Skills  
 - **Languages:** Python, SQL  
