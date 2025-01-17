@@ -1,46 +1,53 @@
-# Hilda's Portfolio!  
+# Hilda's Portfolio
 
-Here, I showcase my experience and projects in **machine learning**, **data analysis**, and **team leadership**, along with my ongoing educational journey.
+Welcome to my portfolio! Here, I document my projects and experience in **machine learning**, **data analysis**, and **team leadership**, alongside my ongoing educational journey.
 
 ---
 
 ## 📚 Table of Contents
 
-1. [Machine Learning Projects](#machine-learning-projects)  
-2. [Skills & Tools](#skills--tools)  
-3. [Education & Certifications](#education--certifications)  
-4. [Connect with Me](#connect-with-me)  
+- [Machine Learning](#machine-learning)
+- [Data Analysis](#data-analysis)
+- [Python Projects](#python-projects)
+- [Education & Certifications](#education--certifications)
 
 ---
 
-## 🧠 Machine Learning Projects
+## 🧠 Machine Learning
 
-| **Project Name**               | **Description**                                                                                                     | **Tools**                        | **Details**                                                                                                                                                                             |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**CO2 Predictor**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)              | Developed a presentation summarizing team insights for a COD machine learning model in Saudi Arabia.                | PowerPoint                       | Focused on visualizing data insights provided by team members; the model aimed to optimize COD predictions for environmental monitoring.                                                |
-| [**Urban Farming in Milan**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)     | Predicted suburban farming areas in Milan using satellite imagery.                                                  | Python, Tableau                  | Led data collection, analysis, visualization, modeling, and deployment. Managed a team of 60 and contributed to extensive EDA and data visualization.                                  |
-| [**Blue Zones in the U.S.**](https://github.com/HildaPosada/SanJoseUSAChapter_BlueZoneProject/blob/main/Non_imputated_EDA.ipynb)     | Predicted longevity and identified "blue zones" in the U.S.                                                         | Python, Pandas, SQL              | Conducted comprehensive data collection and analysis of demographic indicators. Addressed and resolved interpersonal team challenges to maintain project progress.                      |
-| [**Soil Micronutrient Predictor**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda) | Leading the modeling team to predict soil micronutrients for a startup in India.                                    | Python, TensorFlow, Scikit-learn | Developing and testing multiple machine learning models to optimize performance for deployment on sensors. Collaborating closely with a team of 11 to deliver actionable insights.      |
-| [**Omdena Machine Learning Course**](https://github.com/HildaPosada/Streamlit-NLP-Omdenaschool) | Completed a 6-month ML course, covering end-to-end workflows from Python basics to model creation and deployment. | Python, Jupyter Notebook         | Designed and deployed a text classification model capable of categorizing sentences and paragraphs into predefined categories.                                                          |
+| Project Name                       | Completion Date   | Tools                                   | Project Description                                                                                                                                                 |
+|------------------------------------|-------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**CO2 Predictor**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda) | Ongoing           | PowerPoint                              | Summarized team insights to create a CO2 machine learning predictor model for environmental monitoring in Saudi Arabia.                                              |
+| [**Urban Farming in Milan**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda) | November 2023     | Python, Tableau                         | Predicted suburban farming areas in Milan using satellite imagery. Led data collection, analysis, and modeling with a team of 60 collaborators.                     |
+| [**Soil Micronutrient Predictor**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda) | Ongoing           | Python, TensorFlow, Scikit-learn        | Leading modeling for a startup project predicting soil micronutrients using machine learning models for sensor deployment.                                           |
 
 ---
 
-## 🛠 Skills & Tools
+## 🔢 Data Analysis
 
-- **Programming:** Python, SQL  
-- **Machine Learning Frameworks:** TensorFlow, Scikit-learn  
-- **Visualization Tools:** Tableau, Matplotlib, Seaborn  
-- **Team Collaboration:** Leadership, conflict resolution, stakeholder communication  
+| Project Name                       | Area of Analysis   | Tools                                   | Project Description                                                                                                                                                 |
+|------------------------------------|--------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Blue Zones in the U.S.**](https://github.com/HildaPosada/SanJoseUSAChapter_BlueZoneProject/blob/main/Non_imputated_EDA.ipynb) | Longevity Analysis | Python, SQL, Pandas                     | Identified longevity "blue zones" in the U.S. by analyzing demographic indicators and extensive data collection.                                                   |
+
+---
+
+## 💻 Python Projects
+
+| Project Name                       | Area               | Libraries                              | Project Description                                                                                                                                                 |
+|------------------------------------|--------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Text Classification Model**](https://github.com/HildaPosada/Streamlit-NLP-Omdenaschool) | Machine Learning   | Python, TensorFlow                      | Built and deployed a text classification model as part of a 6-month Omdena Machine Learning course.                                                                 |
+| [**IPAGE Development**](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda) | Model Development  | Python, Jupyter Notebook                | Contributed to training and evaluating models for IPAGE to predict environmental factors impacting urban planning.                                                  |
+| [**Domestic Violence Reporting Tool**](https://github.com/HildaPosada/Domestic-Violence-Reporting-Tool) | Hackathon Project   | Python, Flask, SQL                      | Developed a web-based reporting tool during a CS50 hackathon to assist victims of domestic violence by enabling anonymous reporting and providing essential resources.|
 
 ---
 
 ## 🎓 Education & Certifications
 
-| **Course/Program**                     | **Institution**                       | **Completion Date**           | **Details**                                                                                                   |
-|----------------------------------------|---------------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **AWS AI & ML Scholarship Program**    | Udacity                               | March 2025 (In Progress)       | Gaining expertise in Python, object-oriented programming, and AI workflows.                                  |
-| **CS50 Introduction to Computer Science** | Harvard University (edX)             | December 2024            | Comprehensive training in foundational computer science concepts, including algorithms, programming, and data.|
-| **Omdena Machine Learning Course**     | Omdena                                | Completed                     | Covered end-to-end machine learning workflows, from Python basics to deployment of a text classification model.|
+| Program Name                        | Institution                          | Completion Date                     | Details                                                                                                                                                               |
+|-------------------------------------|--------------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **AWS AI & ML Scholarship Program** | Udacity                              | March 2025 (In Progress)            | Comprehensive training in Python, machine learning workflows, and object-oriented programming.                                                                       |
+| **CS50 Introduction to Computer Science** | Harvard University             | December 2024                       | Foundational knowledge in algorithms, data, and programming for computer science. Contributed to a domestic violence reporting tool during a CS50 hackathon.       |
+| **Omdena Machine Learning Course**  | Omdena                               | Completed                           | Focused on building and deploying machine learning models, including text classification and EDA techniques.                                                        |
 
 ---
 
