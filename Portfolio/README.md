@@ -29,7 +29,6 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 | Project Name                                                                                                                     | Area of Analysis   | Tools               | Project Description                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Blue Zones in the U.S.](https://github.com/HildaPosada/SanJoseUSAChapter_BlueZoneProject/blob/main/Non_imputated_EDA.ipynb)** | Longevity Analysis | Python, SQL, Pandas | Identified longevity "blue zones" in the U.S. by analyzing demographic indicators and extensive data collection.                         |
-| **[Covid-19 Impact on Stocks](https://github.com/HildaPosada/Covid-Stock-Analysis)**                                             | Market Analysis    | SQL, Tableau        | Explored the effects of Covid-19 on Malaysia's stock market from Jan 2020 to July 2021 through detailed data cleaning and visualization. |
 
 ---
 
