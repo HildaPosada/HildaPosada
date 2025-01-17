@@ -1,12 +1,12 @@
 # Hilda's Portfolio
 
-Welcome to my portfolio! Here, I document my projects and experience in **machine learning**, **data analysis**, and **team leadership**, alongside my ongoing educational journey.
+Welcome to my portfolio! Here, I document my projects and experience in **machine learning**, **data analysis**, **presentation skills**, and **team leadership**, alongside my ongoing educational journey.
 
 ---
 
 ## 📚 Table of Contents
 
-- [Omdena Projects](#-omdena-projects)
+- [Presentation Projects](#-presentation-projects)
 - [Data Analysis](#-data-analysis)
 - [Python Projects](#-python-projects)
 - [Education & Certifications](#-education--certifications)
@@ -14,13 +14,12 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 
 ---
 
-## 🧠 Omdena Projects
+## 📚 Presentation Projects
 
 | Project Name                                                                                                                             | Completion Date | Tools                            | Project Description                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[CO2 Predictor](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)**                | Ongoing         | PowerPoint                       | Summarized team insights to create a CO2 machine learning predictor model for environmental monitoring in Saudi Arabia.                         |
-| **[Urban Farming in Milan](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)**       | November 2023   | Python, Tableau                  | Predicted suburban farming areas in Milan using satellite imagery. Led data collection, analysis, and modeling with a team of 60 collaborators. |
-| **[Soil Micronutrient Predictor](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)** | Ongoing         | Python, TensorFlow, Scikit-learn | Leading modeling for a startup project predicting soil micronutrients using machine learning models for sensor deployment.                      |
+| **[CO2 Predictor Presentation](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)**                | Ongoing         | PowerPoint                       | Summarized team insights to create a CO2 machine learning predictor model for environmental monitoring in Saudi Arabia.                         |
+| **[Urban Farming in Milan Presentation](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)**       | November 2023   | PowerPoint, Looker Studio                  | Created detailed presentations highlighting findings from satellite imagery analysis and contributed to dashboards for predicting suburban farming areas in Milan. |
 
 ---
 
@@ -37,8 +36,8 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 | Project Name                                                                                                                  | Area                  | Libraries                            | Project Description                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **[Text Classification Model](https://github.com/HildaPosada/Streamlit-NLP-Omdenaschool)**                                    | Machine Learning      | Python, TensorFlow                   | Built and deployed a text classification model as part of a 6-month Omdena Machine Learning course.                                 |
-| **[IPAGE Development](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)** | Model Development     | Python, Jupyter Notebook             | Contributed to training and evaluating models for IPAGE to predict environmental factors impacting urban planning.                  |
-| **[Domestic Violence Reporting Tool](https://github.com/HildaPosada/Domestic-Violence-Reporting-Tool)**                       | Programming Front end | Python, Flask, HTML, CSS, JavaScript | Developed a prototype web-based reporting tool during  CS50 to assist victims of domestic violence by enabling anonymous reporting. |
+| **[Soil Micronutrient Predictor](https://github.com/OmdenaAI/IPAGE/tree/main/notebooks/task_3_model_development_and_training/by-Hilda)**                       | Machine Learning | Python, TensorFlow, Scikit-learn | Led the development and testing of machine learning models to predict soil micronutrient levels for a startup deployment. |
+| **[Domestic Violence Reporting Tool](https://github.com/HildaPosada/Domestic-Violence-Reporting-Tool)**                       | Programming Front end | Python, Flask, HTML, CSS, JavaScript | Developed a prototype web-based reporting tool during CS50 to assist victims of domestic violence by enabling anonymous reporting. |
 
 ---
 
@@ -57,3 +56,9 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 Check out my Omdena profile and contributions: [Omdena Collaborator Profile](https://collaborator.omdena.com/collaborator-profile/67383)
 
 ---
+
+## 📨 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hildaposada/)
+- [GitHub](https://github.com/hildaposada)
+
