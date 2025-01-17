@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 
 ## 📚 Table of Contents
 
-- [Machine Learning](#-machine-learning)
+- [Omdena Projects](#-omdena-projects)
 - [Data Analysis](#-data-analysis)
 - [Python Projects](#-python-projects)
 - [Education & Certifications](#-education--certifications)
