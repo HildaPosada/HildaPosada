@@ -32,10 +32,10 @@ header::before {
 header h1 {
     font-size: 3em;
     font-weight: bold;
-    color: black; /* Change name color to black */
+    color: black;
     z-index: 2;
     position: relative;
-    text-shadow: none; /* Remove white glow */
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); /* Improves contrast */
 }
 
 header p {
