@@ -25,11 +25,12 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 
 ## 🔢 Data Analysis
 
-| Project Name                                                                                                                     | Area of Analysis     | Tools                                           | Project Description                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **[Blue Zones in the U.S.](https://github.com/HildaPosada/SanJoseUSAChapter_BlueZoneProject/blob/main/Non_imputated_EDA.ipynb)** | Longevity Analysis   | Python, SQL, Pandas                             | Identified longevity "blue zones" in the U.S. by analyzing demographic indicators and extensive data collection.    |
-| **[GigEfx Pricing Analysis (Riipen Internship)](https://github.com/HildaPosada/riipen-pricing-analysis)**                        | Vendor Pricing & ETL | Python, SQL, AWS S3, Redshift, Glue, QuickSight | Built a centralized SQL database and dashboard pipeline to monitor product pricing across Southern African vendors. |
-| **[Google Data Analytics Capstone](https://github.com/HildaPosada/google-data-capstone)**                                        | Career Readiness     | Google Sheets, SQL, Tableau                     | Conducted end-to-end data cleaning, analysis, and visualization as part of the Google Data Analytics Certificate.   |
+| Project Name                                                                                                                     | Area of Analysis     | Tools                                           | Project Description                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[Blue Zones in the U.S.](https://github.com/HildaPosada/SanJoseUSAChapter_BlueZoneProject/blob/main/Non_imputated_EDA.ipynb)** | Longevity Analysis   | Python, SQL, Pandas                             | Identified longevity "blue zones" in the U.S. by analyzing demographic indicators and extensive data collection.                                       |
+| **[GigEfx Pricing Analysis (Riipen Internship)](https://github.com/HildaPosada/riipen-pricing-analysis)**                        | Vendor Pricing & ETL | Python, SQL, AWS S3, Redshift, Glue, QuickSight | Built a centralized SQL database and dashboard pipeline to monitor product pricing across Southern African vendors.                                    |
+| **[Google Data Analytics Capstone](https://github.com/HildaPosada/google-data-capstone)**                                        | Career Readiness     | Google Sheets, SQL, Tableau                     | Conducted end-to-end data cleaning, analysis, and visualization as part of the Google Data Analytics Certificate.                                      |
+| **\[Calbright Final Capstone]**                                                                                                  | Workforce Training   | SQL, Python, Excel                              | Developed and presented a final project for Calbright's Data Analysis Certificate, applying ETL, data wrangling, and visualization on real-world data. |
 
 ---
 
@@ -47,12 +48,13 @@ Welcome to my portfolio! Here, I document my projects and experience in **machin
 
 ## 🎓 Education & Certifications
 
-| Program Name                              | Institution              | Completion Date          | Details                                                                                                             |
-| ----------------------------------------- | ------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **AWS AI & ML Scholarship Program**       | Udacity                  | Feburary 2025            | Comprehensive training in Python, machine learning workflows, and object-oriented programming.                      |
-| **CS50 Introduction to Computer Science** | Harvard University (edX) | December 2024            | Foundational knowledge in algorithms, data, and programming for computer science.                                   |
-| **Omdena Machine Learning Course**        | Omdena                   | July 2024                | Focused on building and deploying machine learning models, including text classification and EDA techniques.        |
-| **Google Data Analytics Certificate**     | Coursera (Google)        | In Progress              | Eight-course program in data cleaning, SQL, spreadsheets, and visualization. Capstone included a full data project. |
+| Program Name                              | Institution              | Completion Date | Details                                                                                                             |
+| ----------------------------------------- | ------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Omdena Machine Learning Course**        | Omdena                   | July 2024       | Focused on building and deploying machine learning models, including text classification and EDA techniques.        |
+| **CS50 Introduction to Computer Science** | Harvard University (edX) | December 2024   | Foundational knowledge in algorithms, data, and programming for computer science.                                   |
+| **AWS AI & ML Scholarship Program**       | Udacity                  | February 2025   | Comprehensive training in Python, machine learning workflows, and object-oriented programming.                      |
+| **Calbright Data Analyst Certificate**    | Calbright College        | May 2025        | Workforce-focused training in SQL, data wrangling, and communication for real-world data projects.                  |
+| **Google Data Analytics Certificate**     | Coursera (Google)        | In Progress     | Eight-course program in data cleaning, SQL, spreadsheets, and visualization. Capstone included a full data project. |
 
 ---
 
