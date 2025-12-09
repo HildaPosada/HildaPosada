@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "NYC Restaurant Analysis",
+      "description": "Web scraping and Tableau visualization of restaurant data",
+      "image": "/img/nyc-restaurants.png",
+      "technologies": ["Python", "Octoparse", "Tableau", "Web Scraping"],
+      "link": "https://github.com/HildaPosada/nyc-restaurant-analysis",
+      "date": "2024"
+    },
+    {
+      "id": 2,
+      "name": "Customer Churn Prediction",
+      "description": "Predictive model achieving 83% ROC-AUC accuracy with $146K projected savings",
+      "image": "/img/churn-prediction.png",
+      "technologies": ["Python", "Scikit-learn", "SQL", "Pandas"],
+      "link": "https://github.com/HildaPosada/churn-prediction",
+      "impact": "$146K projected savings",
+      "date": "2024"
+    },
+    {
+      "id": 3,
+      "name": "TechGear Plus Sales Dashboard",
+      "description": "$35.89M revenue analysis and visualization",
+      "image": "/img/techgear-dashboard.png",
+      "technologies": ["SQL", "Tableau"],
+      "link": "https://github.com/HildaPosada/techgear-dashboard",
+      "impact": "$35.89M revenue analysis",
+      "date": "2024"
+    }
+  ]
+}
