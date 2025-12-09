@@ -1,0 +1,15 @@
+{
+  "name": "hp-portfolio",
+  "version": "1.0.0",
+  "description": "Data Science Portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
